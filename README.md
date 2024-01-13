@@ -6,7 +6,7 @@ Kelas&ensp; &nbsp; : TI.22.A.1<br>
 Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br><br>
 
 # KATA PENGANTAR
-<p align="justify">Alhamdulillah hirabbil 'alamin, telah sampailah kita diakhir perkuliahan dari mata kuliah pemrograman mobile-1. Di repository ini Saya bertujuan untuk menuntaskan tugas UAS dari mata kuliah tersebut. Terimakasih untuk Bapak Donny Maulana, S.Kom., M.M.S.I. selaku dosen pengampu, sekali lagi Saya mengucapkan terimakasih yang sebesar-besarnya atas bimbingan dan pelajaran yang Bapak ajarkan kepada Saya. Saya berharap, ilmu yang Bapak ajarkan dan yang Saya dapatkan dapat bermanfaat dimasa mendatang sampai yaumul akhir, Aamiin aamin yarabbal 'alamin. Langsung saja, tanpa berlama lagi, Saya akan langsung menjabarkan semua tugas kali ini.</p>
+<p align="justify">Alhamdulillah hirabbil 'alamin, telah sampailah kita diakhir perkuliahan dari mata kuliah pemrograman mobile-1. Di repository ini Saya bertujuan untuk menuntaskan tugas UAS dari mata kuliah tersebut. Terimakasih untuk Bapak Donny Maulana, S.Kom., M.M.S.I. selaku dosen pengampu, saya mengucapkan terimakasih yang sebesar-besarnya atas bimbingan dan pelajaran yang Bapak ajarkan kepada Saya. Saya berharap, ilmu yang Bapak ajarkan dan yang Saya dapatkan dapat bermanfaat dimasa mendatang sampai yaumul akhir, Aamiin aamin yarabbal 'alamin. Langsung saja, tanpa berlama lagi, Saya akan langsung menjabarkan semua tugas kali ini.</p>
 
 # PERINTAH TUGAS
 <p align="justify">Perintah tugas kali ini adalah mengumpulkan semua hasil yang sudah dibuat dari pertemuan pertama sampai akhir, hasil - hasil tersebut digabungkan dalam satu Aplikasi. Berikut ini semua code yang telah Saya buat.</p>
@@ -52,5 +52,5 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
   
 
 # PENUTUP
-<p align="justify">Baik itulah semua rangkuman hasil pengerjaan aplikasi yang telah saya buat, dari tugas pertama hingga yang terakhir ini. Sebenarnya aplikasi ini masih jauh dari kata sempurna dan masih sangat bisa untuk dikembangkan lebih jauh lagi. Saya sangat berterimakasih karena sudah menyempatkan untuk melihat dan membaca seluruh isi repository ini. Sekali lagi, saya juga sangat berterimakasih kepada Bapak Donny Maulana, S.Kom., M.M.S.I. Selaku dosen pengampu mata kuliah pemrograman mobile yang telah mengajarkan dan membimbing saya untuk mata kuliah ini. Semoga pembelajaran ini tidak terhenti begitu saja, semoga kita semua akan sukses bersama. 
+<p align="justify">Baik itulah semua rangkuman hasil pengerjaan aplikasi yang telah saya buat, dari tugas pertama hingga yang terakhir ini. Sebenarnya aplikasi ini masih jauh dari kata sempurna dan masih sangat bisa untuk dikembangkan lebih jauh lagi. Saya sangat berterimakasih karena sudah menyempatkan untuk melihat dan membaca seluruh isi repository ini. Semoga pembelajaran ini tidak terhenti begitu saja, semoga kita semua akan sukses bersama. 
 Sekian dari repository yang telah saya buat ini semoga bermanfaat bagi yang melihat dan membaca, jika ada kesalahan kata atau kalimat saya memohon maaf. Terima Kasih.</p><br><br>
