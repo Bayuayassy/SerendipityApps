@@ -47,3 +47,10 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
    - Tampilan
 
       ![b](https://github.com/Bayuayassy/Fragment-Tab/assets/115678251/cb3043fb-4bf0-4e7c-b847-b5d7f5463d39)
+
+   - Hasil Run
+  
+
+# PENUTUP
+<p align="justify">Baik itulah semua rangkuman hasil pengerjaan aplikasi yang telah saya buat, dari tugas pertama hingga yang terakhir ini. Sebenarnya aplikasi ini masih jauh dari kata sempurna dan masih sangat bisa untuk dikembangkan lebih jauh lagi. Saya sangat berterimakasih karena sudah menyempatkan untuk melihat dan membaca seluruh isi repository ini. Sekali lagi, saya juga sangat berterimakasih kepada Bapak Donny Maulana, S.Kom., M.M.S.I. Selaku dosen pengampu mata kuliah pemrograman mobile yang telah mengajarkan dan membimbing saya untuk mata kuliah ini. Semoga pembelajaran ini tidak terhenti begitu saja, semoga kita semua akan sukses bersama. 
+Sekian dari repository yang telah saya buat ini semoga bermanfaat bagi yang melihat dan membaca, jika ada kesalahan kata atau kalimat saya memohon maaf. Terima Kasih.</p><br><br>
