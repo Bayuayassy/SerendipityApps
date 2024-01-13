@@ -6,7 +6,7 @@ Kelas&ensp; &nbsp; : TI.22.A.1<br>
 Dosen &nbsp; : Donny Maulana, S.Kom., M.M.S.I.<br><br>
 
 # KATA PENGANTAR
-<p align="justify">Alhamdulillah hirabbil 'alamin, telah sampailah kita diakhir perkuliahan dari mata kuliah pemrograman mobile-1. Di repository ini Saya bertujuan untuk menuntaskan tugas UAS dari mata kuliah tersebut. Terimakasih untuk Bapak Donny Maulana, S.Kom., M.M.S.I. selaku dosen pengampu, saya mengucapkan terimakasih yang sebesar-besarnya atas bimbingan dan pelajaran yang Bapak ajarkan kepada Saya. Saya berharap, ilmu yang Bapak ajarkan dan yang Saya dapatkan dapat bermanfaat dimasa mendatang sampai yaumul akhir, Aamiin aamin yarabbal 'alamin. Langsung saja, tanpa berlama lagi, Saya akan langsung menjabarkan semua tugas kali ini.</p>
+<p align="justify">Alhamdulillah hirabbil 'alamin, telah sampailah kita diakhir perkuliahan dari mata kuliah pemrograman mobile-1. Di repository ini saya bertujuan untuk menuntaskan tugas UAS dari mata kuliah tersebut. Terimakasih untuk Bapak Donny Maulana, S.Kom., M.M.S.I. selaku dosen pengampu, saya mengucapkan terimakasih yang sebesar-besarnya atas bimbingan dan pelajaran yang Bapak ajarkan kepada Saya. Saya berharap, ilmu yang Bapak ajarkan dan yang saya dapatkan dapat bermanfaat dimasa mendatang sampai yaumul akhir, Aamiin aamin yarabbal 'alamin. Langsung saja, tanpa berlama lagi, saya akan langsung menjabarkan semua tugas kali ini.</p>
 
 # PERINTAH TUGAS
 <p align="justify">Perintah tugas kali ini adalah mengumpulkan semua hasil yang sudah dibuat dari pertemuan pertama sampai akhir, hasil - hasil tersebut digabungkan dalam satu Aplikasi. Berikut ini semua code yang telah Saya buat.</p>
