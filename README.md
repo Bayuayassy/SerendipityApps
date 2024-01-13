@@ -48,8 +48,17 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
 
       ![b](https://github.com/Bayuayassy/Fragment-Tab/assets/115678251/cb3043fb-4bf0-4e7c-b847-b5d7f5463d39)
 
+      ![a1](https://github.com/Bayuayassy/SerendipityApps/assets/115678251/5caf5475-0ee9-48f3-8c42-3e22da5337fd)
+
+      ![a2](https://github.com/Bayuayassy/SerendipityApps/assets/115678251/c4b6f4e9-498f-43d2-9c8f-f89911a7b45b)
+
+      ![a3](https://github.com/Bayuayassy/SerendipityApps/assets/115678251/55d60761-4f30-490b-a3f8-fbda18d9b302)
+
+      ![a4](https://github.com/Bayuayassy/SerendipityApps/assets/115678251/25ef0729-fbea-4235-a2cb-75111931c500)
+
    - Hasil Run
-  
+
+      https://github.com/Bayuayassy/SerendipityApps/assets/115678251/466362bc-ddfe-4ac6-9626-275c1d324698
 
 # PENUTUP
 <p align="justify">Baik itulah semua rangkuman hasil pengerjaan aplikasi yang telah saya buat, dari tugas pertama hingga yang terakhir ini. Sebenarnya aplikasi ini masih jauh dari kata sempurna dan masih sangat bisa untuk dikembangkan lebih jauh lagi. Saya sangat berterimakasih karena sudah menyempatkan untuk melihat dan membaca seluruh isi repository ini. Semoga pembelajaran ini tidak terhenti begitu saja, semoga kita semua akan sukses bersama. 
