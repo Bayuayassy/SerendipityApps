@@ -26,3 +26,16 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
 1. Link Github Tugas Hello Word,Count,Scroll Movie,Twoactivity,Alarm,Dan Maps
 
    - https://github.com/Bayuayassy/Intent-App/tree/main
+   - https://github.com/Bayuayassy/App-Intent-V2/tree/main
+  
+   - Tampilan
+  
+     ![tampilan](https://github.com/Bayuayassy/Intent-App/assets/115678251/ac88dbb9-7b66-4aea-adbf-a7278ef128d6)
+
+    ![Gambar WhatsApp 2023-12-02 pukul 14 30 46_2b70bc2b](https://github.com/Bayuayassy/App-Intent-V2/assets/115678251/89c4f780-f366-49c7-b3ee-7794af517a44)
+
+   - Hasil Run
+  
+     https://github.com/Bayuayassy/Intent-App/assets/115678251/b7e26913-e6ea-4729-92ad-829046526b98
+
+     https://github.com/Bayuayassy/App-Intent-V2/assets/115678251/300b94c0-48f5-47e1-901f-72fd17f76552
