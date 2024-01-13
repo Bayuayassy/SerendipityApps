@@ -27,7 +27,7 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
 
    - https://github.com/Bayuayassy/Intent-App/tree/main
    - https://github.com/Bayuayassy/App-Intent-V2/tree/main
-  
+
    - Tampilan
   
      ![tampilan](https://github.com/Bayuayassy/Intent-App/assets/115678251/ac88dbb9-7b66-4aea-adbf-a7278ef128d6)
@@ -39,3 +39,11 @@ Sebelumnya saya akan menjelaskan terlebih dahulu, ada apa saja didalam aplikasi 
      https://github.com/Bayuayassy/Intent-App/assets/115678251/b7e26913-e6ea-4729-92ad-829046526b98
 
      https://github.com/Bayuayassy/App-Intent-V2/assets/115678251/300b94c0-48f5-47e1-901f-72fd17f76552
+
+2. Link Github Tugas Fragment
+
+   - https://github.com/Bayuayassy/Fragment-Tab/tree/main
+
+   - Tampilan
+
+      ![b](https://github.com/Bayuayassy/Fragment-Tab/assets/115678251/cb3043fb-4bf0-4e7c-b847-b5d7f5463d39)
